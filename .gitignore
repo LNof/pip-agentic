@@ -1,0 +1,8 @@
+build/
+.pio/
+*.bin
+*.hex
+*.elf
+*.map
+__pycache__/
+.venv/
